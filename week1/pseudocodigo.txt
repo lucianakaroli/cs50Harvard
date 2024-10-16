@@ -1,0 +1,25 @@
+Passo a passo:
+
+
+1.Se o tamanho da altura for menor que 1 ou maior que 8, fique nesse passo até
+que o usuario insira uma entrada válida. Faca o mesmo caso a entrada nao seja
+um numero inteiro
+
+2. Crie uma variavel contador auxiliar i e itere essa variavel ate o tamanho da
+altura.
+
+3. Peça ao usuário o tamanho da altura da pirâmide.
+
+4. Imprima os #.
+
+Teste de código:
+
+1. -1 ou outros numeros negativos?
+2. 0?
+3. 1 ou outros numeros positivos?
+4. letras ou palavras?
+5. nenhuma entrada, quando voce apenas aperta enter?
+6. no final executar o codigo para ver se está correto
+check50 cs50/problems/2024/x/mario/less
+7. execute o seguinte para avaliar o style do seu código usando style50.
+style50 mario.c
