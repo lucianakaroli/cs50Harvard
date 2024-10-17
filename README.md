@@ -3,9 +3,9 @@ Este é um repositório dedicado ao curso CS50 de Harvard. Aqui você encontrar�
 
 Separado por: Semana, linguagem, nome de cada um.
 
-PSET 1 - Linguagem C
+PSET 1 - Linguagem C<br><br>
 
 mario<br>
-mario-desafio\n
-cash\n
-credit\n
+mario-desafio<br>
+cash<br>
+credit<br>
