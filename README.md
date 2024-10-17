@@ -5,7 +5,7 @@ Separado por: Semana, linguagem, nome de cada um.
 
 PSET 1 - Linguagem C
 
-mario\n
+mario<br>
 mario-desafio\n
 cash\n
 credit\n
