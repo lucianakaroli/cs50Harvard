@@ -9,3 +9,6 @@ mario<br>
 mario-desafio<br>
 cash<br>
 credit<br>
+population<br>
+
+PSET 2 - Arrays
